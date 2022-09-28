@@ -1,3 +1,5 @@
-# teste-2
-traba
-asdfasdf
+# Equipe
+
+- Aluno UM
+- Aluno DOIS
+- Aluno TRÊS
